@@ -17,4 +17,4 @@ i.e. misspelt items can be corrected by clicking the edit icon.
 Any item already bought can be deleted from the list by clicking the delete icon.\
 All items can be cleared from the list by clicking clear-items button.
 
-[course-here]('https://www.youtube.com/codingaddict')
+[course-here](https://www.youtube.com/codingaddict)
